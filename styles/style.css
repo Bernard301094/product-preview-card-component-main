@@ -11,6 +11,7 @@ main div.container {
   display: flex;
   margin: 0;
   padding: 0;
+  max-height: 1440px;
 }
 
 main div.img-producto img{
@@ -20,10 +21,11 @@ main div.img-producto img{
 }
 
 main div .info-producto {
-  
+  border-radius: 0 20px 20px 0;
   height: 100%;
   width: 100%;
   background-color: hsl(0, 0%, 100%);
+  height: auto;
 }
 
 
