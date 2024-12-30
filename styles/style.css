@@ -1,0 +1,40 @@
+@import url(/styles/reset.css);
+
+/* Customizing the CSS */
+
+main {
+    padding: 200px;
+    background-color: hsl(0, 0%, 95%);
+}
+
+main div.container {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+main div.img-producto img{
+  border-radius: 20px 0 0 20px;
+  width: 100%;
+  height: 100%;
+}
+
+main div .info-producto {
+  
+  height: 100%;
+  width: 100%;
+  background-color: hsl(0, 0%, 100%);
+}
+
+
+/* FOOTER */
+
+footer .attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+footer .attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+    
