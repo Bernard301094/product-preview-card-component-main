@@ -21,7 +21,7 @@ Los diseños se crearon con los siguientes anchos:
 - **Azul muy oscuro**: `hsl(212, 21%, 14%)`  
 - **Azul grisáceo oscuro**: `hsl(228, 12%, 48%)`  
 - **Blanco**: `hsl(0, 0%, 100%)`  
-
+q
 ## Tipografía
 
 ### Texto del cuerpo
